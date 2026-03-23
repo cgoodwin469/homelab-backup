@@ -1,6 +1,9 @@
 import boto3
 import os
 from datetime import datetime
+from dotenv import load_dotenv
+
+load_dotenv()
 
 s3_client = boto3.client('s3')
 BUCKET_NAME = os.environ.get('S3_BUCKET_NAME')
