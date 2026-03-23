@@ -8,7 +8,7 @@ An automated file backup system that watches a local folder on a self-hosted Ubu
 
 ## Live Demo
 
-🔗 [Coming soon — deploying to Vercel]
+🔗 [homelab-backup.vercel.app](https://homelab-backup.vercel.app)
 
 ![Dashboard Screenshot](docs/screenshots/dashboard.png)
 
